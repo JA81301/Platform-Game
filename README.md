@@ -1,5 +1,7 @@
 # Platform-Game
-HTML Canvas game. 
+HTML Canvas platform game.
+
+Play the game [here](https://jonathan-ackerman.github.io/Platform-Game/).
 
 Almost all of this project was written several years before it was uploaded to GitHub, so it does not use
 some modern JS features. For example, "var" is used to declare variables instead of "let" and "const".
